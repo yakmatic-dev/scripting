@@ -8,7 +8,7 @@ Bash (Bourne Again Shell) is a Unix shell and command language. It is the defaul
 
 #: Comment (ignored during execution).
 
-echo: Command to print output
+echo: Command to print output.
 
 For a bash script ensure the file have extension of .sh
 
